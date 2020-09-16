@@ -1,1 +1,1 @@
-# burger-okd.github.io
+# Occupancy problem and the Possoin distribuion
